@@ -2,7 +2,7 @@
 const CACHE = 'devmedistore-v1';
 const ASSETS = [
   './',
-  './DevMedistore-2.html',
+  './index.html',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css',
   'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@400;600;700;800&display=swap'
 ];
