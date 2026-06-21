@@ -2,8 +2,8 @@
   "name": "Dev Medistore",
   "short_name": "DevMedi",
   "description": "Your trusted online pharmacy in Jaunpur, UP. Order medicines with home delivery.",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/Devmedistore/index.html",
+  "scope": "/Devmedistore/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#ffffff",
@@ -45,7 +45,7 @@
       "name": "Order Medicines",
       "short_name": "Order",
       "description": "Browse and order medicines",
-      "url": "./index.html"
+      "url": "/Devmedistore/index.html"
     },
     {
       "name": "Chat on WhatsApp",
